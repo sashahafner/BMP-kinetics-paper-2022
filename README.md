@@ -22,7 +22,7 @@ See `scripts/load.R` for an example of reading into R.
 
 ## `plot_scripts`
 Contains R scripts for generating the plots in `plots`.
-Run `man.R` in R in a local copy of this repository to recreate plots.
+Run `main.R` in R in a local copy of this repository to recreate plots.
 
 ## `plots`
 Contains two pdf files with SMP and methane production rate for each individual bottle in a separate plot.
