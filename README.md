@@ -2,10 +2,10 @@
 Public repository with data and analysis for the (forthcoming) 2022 paper evaluating kinetic data from biochemical methane potential (BMP) tests. 
 
 # References
-Reference 1 is an open-access paper that describes the results presented here (paper has been accepted, and details will be added in late September 2022).
-Reference 2 (also open-access) describes the original inter-laboratory study that generated the data used.
+Reference 1 is an open-access paper that describes the data presented here in this repository.
+Reference 2, also open-access, describes the original inter-laboratory study that generated the measurements used.
 
-1. Hafner, S.D., Astals, S., Holliger, C., Koch, K., Nielsen, L., Refsahl, L., Weinrich, S. 2022. Assessing the value of kinetic results from biochemical methane potential tests: Reproducibility from a large inter-laboratory study. doi forthcoming.
+1. Hafner, S.D., Astals, S., Holliger, C., Koch, K., Nielsen, L., Refsahl, L., Weinrich, S. 2022. Assessing the value of kinetic results from biochemical methane potential tests: Reproducibility from a large inter-laboratory study. Cleaner Chemical Engineering. URL: <https://doi.org/10.1016/j.clce.2022.100065>, doi: 10.1016/j.clce.2022.100065
 2. Hafner, S.D., Fruteau de Laclos, H., Koch, K., Holliger, C., 2020. Improving inter-laboratory reproducibility in measurement of biochemical methane potential (BMP). Water 12, 1752. URL: <https://www.mdpi.com/2073-4441/12/6/1752>, doi:10.3390/w12061752. 
 
 # Description of files
