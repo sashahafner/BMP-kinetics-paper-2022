@@ -1,5 +1,5 @@
 # BMP-kinetics-paper-2022
-Public repository with data and analysis for the (forthcoming) 2022 paper evaluating kinetic data from biochemical methane potential (BMP) tests. 
+Public repository with data and analysis for a 2022 paper evaluating kinetic data from biochemical methane potential (BMP) tests. 
 
 # References
 Reference 1 is an open-access paper that describes the data presented here in this repository.
