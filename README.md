@@ -1,7 +1,12 @@
 # BMP-kinetics-paper-2022
 Public repository with data and analysis for a 2022 paper evaluating kinetic data from biochemical methane potential (BMP) tests. 
 
+# Maintainer
+Sasha D. Hafner.
+Contact information here: <https://au.dk/sasha.hafner@bce>.
+
 # References
+This work is related to two papers.
 Reference 1 is an open-access paper that describes the data presented here in this repository.
 Reference 2, also open-access, describes the original inter-laboratory study that generated the measurements used.
 
